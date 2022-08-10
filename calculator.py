@@ -19,3 +19,5 @@ elif input3.lower()=="multiply":
         print(input1*input2)
 else:
     print("this calculator could only add, subtract, divide, multiply")
+
+print("thank you")
